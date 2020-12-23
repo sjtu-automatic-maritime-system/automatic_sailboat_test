@@ -1,0 +1,12 @@
+Header header
+float64 roll
+float64 pitch
+float64 yaw
+float64 gx
+float64 gy
+float64 gz
+float64 ax
+float64 ay
+float64 az
+float64 heave
+float64 accuracy
